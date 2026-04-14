@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "title": "灵飞经",
+    "price": 128.00,
+    "category": "书法",
+    "description": "硬笔书法临摹古系列，经典书法学习教材。",
+    "cover": "/0.png"
+  },
+  {
+    "id": "2",
+    "title": "投资是一场修行",
+    "price": 39.00,
+    "category": "商业",
+    "description": "探讨投资哲学与人生修行的关系，帮助读者建立正确的投资观念。",
+    "cover": "/0d806c83a18fbf58bb23f5952c684932.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "行楷入门",
+    "price": 45.00,
+    "category": "书法",
+    "description": "慎独书院行楷入门基本笔画，书法学习基础教程。",
+    "cover": "/1.png"
+  },
+  {
+    "id": "4",
+    "title": "白居易",
+    "price": 58.00,
+    "category": "文学",
+    "description": "唐代诗人白居易诗集，经典文学作品。",
+    "cover": "/4bc294caly1i4zi1tvyc3j215o1vt4au.jpg"
+  },
+  {
+    "id": "5",
+    "title": "历史是平的",
+    "price": 68.00,
+    "category": "历史",
+    "description": "谷园讲通鉴，历史为什么是平的。",
+    "cover": "/87b5eddfly1i3h2spp0q3j20pw13egy6.jpg"
+  },
+  {
+    "id": "6",
+    "title": "解忧杂货店",
+    "price": 45.00,
+    "category": "小说",
+    "description": "东野圭吾温情治愈之作，神奇杂货店的故事。",
+    "cover": "/3004250144.jpg"
+  },
+  {
+    "id": "7",
+    "title": "让世界爱上中国",
+    "price": 59.00,
+    "category": "文化",
+    "description": "大变局时代如何向世界讲好中国故事。",
+    "cover": "/3004604551.jpg"
+  },
+  {
+    "id": "8",
+    "title": "生平",
+    "price": 55.00,
+    "category": "传记",
+    "description": "人物生平传记，记录人生历程。",
+    "cover": "/20151222161317_olqr0aqa63.jpg"
+  },
+  {
+    "id": "9",
+    "title": "昆虫记",
+    "price": 49.00,
+    "category": "科普",
+    "description": "法布尔昆虫记，经典科普读物。",
+    "cover": "/c8177f3e6709c93d70cfe3225264efdcd100bba1fe96.png"
+  },
+  {
+    "id": "10",
+    "title": "人体结构",
+    "price": 93.00,
+    "category": "医学",
+    "description": "畅销全球的人体绘画入门经典，350个人体绘画诀窍。",
+    "cover": "/ScreenShot_2026-04-13_184416_041.jpg"
+  },
+  {
+    "id": "11",
+    "title": "苏格拉底的申辩",
+    "price": 45.00,
+    "category": "哲学",
+    "description": "哲学经典，柏拉图全译本，原著完整版。",
+    "cover": "/ScreenShot_2026-04-13_184454_055.jpg"
+  },
+  {
+    "id": "12",
+    "title": "允许一切发生",
+    "price": 45.00,
+    "category": "心理",
+    "description": "真正的强大不是对抗，而是允许一切发生。",
+    "cover": "/ScreenShot_2026-04-13_184516_800.png"
+  },
+  {
+    "id": "13",
+    "title": "罪与罚",
+    "price": 59.00,
+    "category": "小说",
+    "description": "陀思妥耶夫斯基经典名著，世界文学典藏。",
+    "cover": "/ScreenShot_2026-04-13_184532_135.png"
+  },
+  {
+    "id": "14",
+    "title": "女人的胜利",
+    "price": 49.00,
+    "category": "小说",
+    "description": "余华作品，一边崩溃一边自愈，快活一天就是胜利。",
+    "cover": "/ScreenShot_2026-04-13_184550_440.png"
+  },
+  {
+    "id": "15",
+    "title": "大唐诡事录",
+    "price": 68.00,
+    "category": "小说",
+    "description": "盛唐之下危机四伏，官方正版悬疑小说。",
+    "cover": "/ScreenShot_2026-04-13_184604_921.png"
+  },
+  {
+    "id": "16",
+    "title": "蓬莱仙女",
+    "price": 128.00,
+    "category": "文学",
+    "description": "中国古典文学作品，描绘蓬莱仙境中仙女的美丽传说。",
+    "cover": "/u=1607793898,827194520&fm=3074&app=3074&f=JPEG.jfif"
+  },
+  {
+    "id": "17",
+    "title": "看懂自己的脆弱",
+    "price": 98.00,
+    "category": "心理",
+    "description": "帮助读者理解自身脆弱面，接纳不完美的心灵成长书籍。",
+    "cover": "/u=1621341642,3029186000&fm=3074&app=3074&f=JPEG.jfif"
+  },
+  {
+    "id": "18",
+    "title": "叶船",
+    "price": 39.00,
+    "category": "小说",
+    "description": "描绘青春岁月和成长历程的文学作品，充满诗意与温情。",
+    "cover": "/u=1992148160,1940186854&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "19",
+    "title": "红楼梦",
+    "price": 68.00,
+    "category": "文学",
+    "description": "中国古典四大名著之一，描绘封建大家族的兴衰历程。",
+    "cover": "/u=2682286380,2364767943&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "20",
+    "title": "三国演义",
+    "price": 59.00,
+    "category": "文学",
+    "description": "中国古典四大名著之一，描写东汉末年的历史风云。",
+    "cover": "/u=2683139550,858099553&fm=3074&app=3074&f=JPEG.jfif"
+  },
+  {
+    "id": "21",
+    "title": "活着",
+    "price": 45.00,
+    "category": "小说",
+    "description": "余华经典作品，讲述一个人一生历尽沧桑的故事。",
+    "cover": "/u=2919270010,2601338619&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "22",
+    "title": "围城",
+    "price": 55.00,
+    "category": "小说",
+    "description": "钱钟书经典长篇小说，被誉为「新儒林外史」。",
+    "cover": "/u=3114538889,1601740582&fm=3074&app=3074&f=JPEG.jfif"
+  },
+  {
+    "id": "23",
+    "title": "追风筝的人",
+    "price": 49.00,
+    "category": "小说",
+    "description": "卡勒德·胡赛尼作品，关于友谊、背叛与救赎的动人故事。",
+    "cover": "/u=3939718611,1076440139&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "24",
+    "title": "青春之歌",
+    "price": 45.00,
+    "category": "文学",
+    "description": "反映青年学生投身革命事业的经典文学作品。",
+    "cover": "/u=729883201,4171737163&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "25",
+    "title": "长征诗画",
+    "price": 58.00,
+    "category": "文学",
+    "description": "以诗歌和绘画形式展现红军长征的壮丽历程。",
+    "cover": "/u=1009165114,3059897181&fm=253&app=138&f=JPEG.jfif"
+  },
+  {
+    "id": "26",
+    "title": "明朝那些事儿",
+    "price": 198.00,
+    "category": "历史",
+    "description": "全景式展现明朝两百多年的历史故事。",
+    "cover": "/w700d1q75cms.jpg"
+  },
+  {
+    "id": "27",
+    "title": "深入理解计算机系统",
+    "price": 129.00,
+    "category": "科技",
+    "description": "从程序员视角阐述计算机系统本质概念。",
+    "cover": "/w700d1q75cms (1).jpg"
+  },
+  {
+    "id": "28",
+    "title": "JavaScript高级程序设计",
+    "price": 139.00,
+    "category": "教育",
+    "description": "JavaScript技术经典名著，深入介绍语言核心概念。",
+    "cover": "/w700d1q75cms (2).jpg"
+  },
+  {
+    "id": "29",
+    "title": "平凡的世界",
+    "price": 78.00,
+    "category": "小说",
+    "description": "路遥代表作，普通人在大时代中的艰难历程。",
+    "cover": "/v2-0c18a2e048232baba09c496a5ae74d32_r.jpg"
+  },
+  {
+    "id": "30",
+    "title": "孙子兵法",
+    "price": 35.00,
+    "category": "军事",
+    "description": "中国古代著名兵书，阐述战争策略和军事思想。",
+    "cover": "/ScreenShot_2026-04-13_184615_507.png"
+  }
+]
