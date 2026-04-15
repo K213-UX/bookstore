@@ -221,7 +221,7 @@ export const ocrBooks = [
     },
     {
         id: 'ocr-23',
-        title: '向阳蚂（待校）',
+        title: '向阳蚂',
         author: '张峻',
         price: 33,
         category: '文学',

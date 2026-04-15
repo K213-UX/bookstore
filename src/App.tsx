@@ -100,7 +100,6 @@ export default function App() {
     <div className="app">
       <header className="app-header">
         <h1>在线图书系统</h1>
-        <p>已按图片封面 OCR 识别结果导入图书，少量低清图片已标记待校</p>
       </header>
 
       <nav className="toolbar">

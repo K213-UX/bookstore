@@ -39,13 +39,30 @@
 .toolbar-left,
 .toolbar-right {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .sort-select {
-  max-width: 150px;
+  height: 38px;
+  border-radius: 6px;
+  min-width: 140px;
+  border: 1px solid var(--border);
+  padding: 0 12px;
+}
+
+.toolbar-right .btn-secondary {
+  border-radius: 6px;
+  padding: 10px 16px;
+  background-color: var(--primary);
+  height: 38px;
+  display: flex;
+  align-items: center;
+}
+
+.toolbar-right .btn-secondary:hover {
+  background-color: var(--primary-dark);
 }
 
 .books-container {
