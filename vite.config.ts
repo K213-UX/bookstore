@@ -5,6 +5,10 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 5173,
-    open: true
+    open: true,
+    host: true
+  },
+  preview: {
+    allowedHosts: ['www.zhichuangkeji.online']
   }
 })
